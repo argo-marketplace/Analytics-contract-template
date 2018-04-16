@@ -2,7 +2,7 @@
 
 ## WHY:
 
-Towards common contracting vehicle to better define digital work between non-megacorp. talent and local government.
+Towards creating common contracting vehicles to better define digital work between civic talent and local government.
 
 More context: https://twitter.com/vr00n/status/985544553284255750
 
