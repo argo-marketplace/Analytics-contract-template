@@ -12,4 +12,4 @@ Contract templates to develop digital tools for local government operations.
 
 ## HOW: 
 
-Create issues to join the conversation or submit an example of a contract that works for you.
+Create [issues](https://github.com/argo-marketplace/Civic-Analytics-contract-template/issues) to join the conversation or submit an example of a contract that works for you.
