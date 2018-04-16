@@ -1,4 +1,4 @@
-# Civic Analytics contract template
+# Civic analytics contract template
 
 ## WHY:
 
